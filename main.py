@@ -15,7 +15,7 @@ load_dotenv()
 TOKEN = os.getenv("BOT_TOKEN")
 
 # Group configuration
-ALLOWED_GROUP_ID = -1002243130288  # Updated with your actual group ID from logs
+ALLOWED_GROUP_ID = -1002165335366  # Updated with your actual group ID from logs
 ADMINS = {7951420571, 136817688}
 
 # Maximum warnings before ban
